@@ -1,1 +1,1 @@
-# Github-Topic--Scraper
+# Github-Topic-Scraper
